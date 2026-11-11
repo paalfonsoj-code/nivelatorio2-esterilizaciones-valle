@@ -1,0 +1,385 @@
+Fecha de esterilización;Codigo Departamento;Departamento;Codigo Municipio;Municipio;Latitud;Longitud;Lugar del Municipio ;Sexo;Tipo de Animal;Total Esterizaciones
+13/07/2024;76;Valle del Cauca;76497;Obando;45.753.928.722.886.100;-7.597.207.939.009.910;Consultorio Veterinario;Hembras;Caninos;12
+13/07/2024;76;Valle del Cauca;76497;Obando;45.753.928.722.886.100;-7.597.207.939.009.910;Consultorio Veterinario;Machos;Caninos;10
+13/07/2024;76;Valle del Cauca;76497;Obando;45.753.928.722.886.100;-7.597.207.939.009.910;Consultorio Veterinario;Hembras;Felinos;6
+13/07/2024;76;Valle del Cauca;76497;Obando;45.753.928.722.886.100;-7.597.207.939.009.910;Consultorio Veterinario;Machos;Felinos;4
+10/08/2024;76;Valle del Cauca;76001;Cali;3.454.710.608.594.070;-7.653.418.371.894.120;Polideportivo Metropolit Norte;Hembras;Canino;19
+10/08/2024;76;Valle del Cauca;76001;Cali;3.454.710.608.594.070;-7.653.418.371.894.120;Polideportivo Metropolit Norte;Machos;Canino;13
+10/08/2024;76;Valle del Cauca;76001;Cali;3.454.710.608.594.070;-7.653.418.371.894.120;Polideportivo Metropolit Norte;Hembras;Felinos;2
+10/08/2024;76;Valle del Cauca;76001;Cali;3.454.710.608.594.070;-7.653.418.371.894.120;Polideportivo Metropolit Norte;Machos;Felinos;6
+19/08/2024;76;Valle del Cauca;76318;Guacarí;3.764.245.397.710.900;-7.633.423.086.408.020;Parque Principal;Hembras;Canino;14
+19/08/2024;76;Valle del Cauca;76318;Guacarí;3.764.245.397.710.900;-7.633.423.086.408.020;Parque Principal;Machos;Canino;10
+19/08/2024;76;Valle del Cauca;76318;Guacarí;3.764.245.397.710.900;-7.633.423.086.408.020;Parque Principal;Hembras;Felinos;11
+19/08/2024;76;Valle del Cauca;76318;Guacarí;3.764.245.397.710.900;-7.633.423.086.408.020;Parque Principal;Machos;Felinos;3
+21/08/2024;76;Valle del Cauca;76736;Sevilla;4.265.394.045.050.650;-7.593.416.369.649.170;Biblioteca Municipal;Hembras;Canino;17
+21/08/2024;76;Valle del Cauca;76736;Sevilla;4.265.394.045.050.650;-7.593.416.369.649.170;Biblioteca Municipal;Machos;Canino;10
+21/08/2024;76;Valle del Cauca;76736;Sevilla;4.265.394.045.050.650;-7.593.416.369.649.170;Biblioteca Municipal;Hembras;Felinos;10
+21/08/2024;76;Valle del Cauca;76736;Sevilla;4.265.394.045.050.650;-7.593.416.369.649.170;Biblioteca Municipal;Machos;Felinos;11
+22/08/2024;76;Valle del Cauca;76122;Caicedonia;43.315.158.576.977.500;-75.829.255.203.596;Coliseo CIC;Hembras;Canino;11
+22/08/2024;76;Valle del Cauca;76122;Caicedonia;43.315.158.576.977.500;-75.829.255.203.596;Coliseo CIC;Machos;Canino;7
+22/08/2024;76;Valle del Cauca;76122;Caicedonia;43.315.158.576.977.500;-75.829.255.203.596;Coliseo CIC;Hembras;Felinos;13
+22/08/2024;76;Valle del Cauca;76122;Caicedonia;43.315.158.576.977.500;-75.829.255.203.596;Coliseo CIC;Machos;Felinos;8
+23/08/2024;76;Valle del Cauca;76364;Jamundí;32.613.358.457.008.200;-765.406.097.901.073;Parque Barrio Bonanza;Hembras;Canino;19
+23/08/2024;76;Valle del Cauca;76364;Jamundí;32.613.358.457.008.200;-765.406.097.901.073;Parque Barrio Bonanza;Machos;Canino;8
+23/08/2024;76;Valle del Cauca;76364;Jamundí;32.613.358.457.008.200;-765.406.097.901.073;Parque Barrio Bonanza;Hembras;Felinos;12
+23/08/2024;76;Valle del Cauca;76364;Jamundí;32.613.358.457.008.200;-765.406.097.901.073;Parque Barrio Bonanza;Machos;Felinos;11
+27/08/2024;76;Valle del Cauca;76622;Roldanillo;4.411.284.145.486.310;-7.615.434.946.126.530;La Granja;Hembras;Canino;17
+27/08/2024;76;Valle del Cauca;76622;Roldanillo;4.411.284.145.486.310;-7.615.434.946.126.530;La Granja;Machos;Canino;7
+27/08/2024;76;Valle del Cauca;76622;Roldanillo;4.411.284.145.486.310;-7.615.434.946.126.530;La Granja;Hembras;Felinos;11
+27/08/2024;76;Valle del Cauca;76622;Roldanillo;4.411.284.145.486.310;-7.615.434.946.126.530;La Granja;Machos;Felinos;8
+28/08/2024;76;Valle del Cauca;76100;Bolívar;4.337.282.067.302.530;-7.618.425.796.126.580;Parque Principal;Hembras;Canino;20
+28/08/2024;76;Valle del Cauca;76100;Bolívar;4.337.282.067.302.530;-7.618.425.796.126.580;Parque Principal;Machos;Canino;8
+28/08/2024;76;Valle del Cauca;76100;Bolívar;4.337.282.067.302.530;-7.618.425.796.126.580;Parque Principal;Hembras;Felinos;12
+28/08/2024;76;Valle del Cauca;76100;Bolívar;4.337.282.067.302.530;-7.618.425.796.126.580;Parque Principal;Machos;Felinos;8
+29/08/2024;76;Valle del Cauca;76890;Yotoco;3.860.448.294.971.170;-7.638.545.702.078.370;Cancha Aux;Hembras;Canino;15
+29/08/2024;76;Valle del Cauca;76890;Yotoco;3.860.448.294.971.170;-7.638.545.702.078.370;Cancha Aux;Machos;Canino;5
+29/08/2024;76;Valle del Cauca;76890;Yotoco;3.860.448.294.971.170;-7.638.545.702.078.370;Cancha Aux;Hembras;Felinos;4
+29/08/2024;76;Valle del Cauca;76890;Yotoco;3.860.448.294.971.170;-7.638.545.702.078.370;Cancha Aux;Machos;Felinos;0
+30/08/2024;76;Valle del Cauca;76892;Yumbo;3.583.946.637.769.680;-764.957.929.342.804;Polideportivo;Hembras;Canino;20
+30/08/2024;76;Valle del Cauca;76892;Yumbo;3.583.946.637.769.680;-764.957.929.342.804;Polideportivo;Machos;Canino;6
+30/08/2024;76;Valle del Cauca;76892;Yumbo;3.583.946.637.769.680;-764.957.929.342.804;Polideportivo;Hembras;Felinos;23
+30/08/2024;76;Valle del Cauca;76892;Yumbo;3.583.946.637.769.680;-764.957.929.342.804;Polideportivo;Machos;Felinos;3
+3/09/2024;76;Valle del Cauca;76130;Cartago;3.409.347.509.461.260;-7.634.781.797.045.050;Coliseo Isleta;Hembras;Canino;14
+3/09/2024;76;Valle del Cauca;76130;Cartago;3.409.347.509.461.260;-7.634.781.797.045.050;Coliseo Isleta;Machos;Canino;8
+3/09/2024;76;Valle del Cauca;76130;Cartago;3.409.347.509.461.260;-7.634.781.797.045.050;Coliseo Isleta;Hembras;Felinos;11
+3/09/2024;76;Valle del Cauca;76130;Cartago;3.409.347.509.461.260;-7.634.781.797.045.050;Coliseo Isleta;Machos;Felinos;7
+5/09/2024;76;Valle del Cauca;76563;Pradera;342.039.795.490.065;-7.624.224.754.962.120;Coliseo Margaritas;Hembras;Canino;10
+5/09/2024;76;Valle del Cauca;76563;Pradera;342.039.795.490.065;-7.624.224.754.962.120;Coliseo Margaritas;Machos;Canino;12
+5/09/2024;76;Valle del Cauca;76563;Pradera;342.039.795.490.065;-7.624.224.754.962.120;Coliseo Margaritas;Hembras;Felinos;29
+5/09/2024;76;Valle del Cauca;76563;Pradera;342.039.795.490.065;-7.624.224.754.962.120;Coliseo Margaritas;Machos;Felinos;3
+6/09/2024;76;Valle del Cauca;76233;Dagua;3.657.627.442.965.970;-7.669.363.723.243.510;Casa de la mujer;Hembras;Canino;7
+6/09/2024;76;Valle del Cauca;76233;Dagua;3.657.627.442.965.970;-7.669.363.723.243.510;Casa de la mujer;Machos;Canino;4
+6/09/2024;76;Valle del Cauca;76233;Dagua;3.657.627.442.965.970;-7.669.363.723.243.510;Casa de la mujer;Hembras;Felinos;24
+6/09/2024;76;Valle del Cauca;76233;Dagua;3.657.627.442.965.970;-7.669.363.723.243.510;Casa de la mujer;Machos;Felinos;13
+9/09/2024;76;Valle del Cauca;76834;Tuluá;40.863.619.224.404.000;-761.976.832.422.381;Coliseo de ferias;Hembras;Canino;21
+9/09/2024;76;Valle del Cauca;76834;Tuluá;40.863.619.224.404.000;-761.976.832.422.381;Coliseo de ferias;Machos;Canino;8
+9/09/2024;76;Valle del Cauca;76834;Tuluá;40.863.619.224.404.000;-761.976.832.422.381;Coliseo de ferias;Hembras;Felinos;12
+9/09/2024;76;Valle del Cauca;76834;Tuluá;40.863.619.224.404.000;-761.976.832.422.381;Coliseo de ferias;Machos;Felinos;10
+10/09/2024;76;Valle del Cauca;76275;Florida;33.261.397.334.542.100;-7.623.609.414.593.200;P. bosque municipal;Hembras;Canino;17
+10/09/2024;76;Valle del Cauca;76275;Florida;33.261.397.334.542.100;-7.623.609.414.593.200;P. bosque municipal;Machos;Canino;12
+10/09/2024;76;Valle del Cauca;76275;Florida;33.261.397.334.542.100;-7.623.609.414.593.200;P. bosque municipal;Hembras;Felinos;13
+10/09/2024;76;Valle del Cauca;76275;Florida;33.261.397.334.542.100;-7.623.609.414.593.200;P. bosque municipal;Machos;Felinos;11
+11/09/2024;76;Valle del Cauca;76306;Ginebra;37.242.860.580.405.500;-7.626.912.574.961.950;Parque Principal;Hembras;Canino;15
+11/09/2024;76;Valle del Cauca;76306;Ginebra;37.242.860.580.405.500;-7.626.912.574.961.950;Parque Principal;Machos;Canino;12
+11/09/2024;76;Valle del Cauca;76306;Ginebra;37.242.860.580.405.500;-7.626.912.574.961.950;Parque Principal;Hembras;Felinos;14
+11/09/2024;76;Valle del Cauca;76306;Ginebra;37.242.860.580.405.500;-7.626.912.574.961.950;Parque Principal;Machos;Felinos;5
+12/09/2024;76;Valle del Cauca;76126;Candelaria;3.954.626.129.719.530;-7.648.322.146.220.290;Parque Principal;Hembras;Canino;12
+12/09/2024;76;Valle del Cauca;76126;Candelaria;3.954.626.129.719.530;-7.648.322.146.220.290;Parque Principal;Machos;Canino;7
+12/09/2024;76;Valle del Cauca;76126;Candelaria;3.954.626.129.719.530;-7.648.322.146.220.290;Parque Principal;Hembras;Felinos;14
+12/09/2024;76;Valle del Cauca;76126;Candelaria;3.954.626.129.719.530;-7.648.322.146.220.290;Parque Principal;Machos;Felinos;6
+1/10/2024;76;Valle del Cauca;76250;El Dovio;4.511.535.642.587.150;-7.623.859.573.427.440;Parque Principal;Hembras;Canino;20
+1/10/2024;76;Valle del Cauca;76250;El Dovio;4.511.535.642.587.150;-7.623.859.573.427.440;Parque Principal;Machos;Canino;11
+1/10/2024;76;Valle del Cauca;76250;El Dovio;4.511.535.642.587.150;-7.623.859.573.427.440;Parque Principal;Hembras;Felinos;5
+1/10/2024;76;Valle del Cauca;76250;El Dovio;4.511.535.642.587.150;-7.623.859.573.427.440;Parque Principal;Machos;Felinos;9
+2/10/2024;76;Valle del Cauca;76823;Toro;4.609.528.083.935.290;-7.607.870.492.077.870;Coliseo J.J;Hembras;Canino;20
+2/10/2024;76;Valle del Cauca;76823;Toro;4.609.528.083.935.290;-7.607.870.492.077.870;Coliseo J.J;Machos;Canino;11
+2/10/2024;76;Valle del Cauca;76823;Toro;4.609.528.083.935.290;-7.607.870.492.077.870;Coliseo J.J;Hembras;Felinos;11
+2/10/2024;76;Valle del Cauca;76823;Toro;4.609.528.083.935.290;-7.607.870.492.077.870;Coliseo J.J;Machos;Felinos;12
+3/10/2024;76;Valle del Cauca;76823;Toro;4.609.528.083.935.290;-7.607.870.492.077.870;Coliseo J.J;Hembras;Canino;11
+3/10/2024;76;Valle del Cauca;76823;Toro;4.609.528.083.935.290;-7.607.870.492.077.870;Coliseo J.J;Machos;Canino;6
+3/10/2024;76;Valle del Cauca;76823;Toro;4.609.528.083.935.290;-7.607.870.492.077.870;Coliseo J.J;Hembras;Felinos;26
+3/10/2024;76;Valle del Cauca;76823;Toro;4.609.528.083.935.290;-7.607.870.492.077.870;Coliseo J.J;Machos;Felinos;12
+4/10/2024;76;Valle del Cauca;76892;Yumbo;3.583.946.637.769.680;-764.957.929.342.804;Las Americas;Hembras;Canino;17
+4/10/2024;76;Valle del Cauca;76892;Yumbo;3.583.946.637.769.680;-764.957.929.342.804;Las Americas;Machos;Canino;9
+4/10/2024;76;Valle del Cauca;76892;Yumbo;3.583.946.637.769.680;-764.957.929.342.804;Las Americas;Hembras;Felinos;17
+4/10/2024;76;Valle del Cauca;76892;Yumbo;3.583.946.637.769.680;-764.957.929.342.804;Las Americas;Machos;Felinos;12
+8/10/2024;76;Valle del Cauca;76863;Versalles;4.575.218.793.742.650;-7.619.998.899.009.910;Parque Principal;Hembras;Canino;20
+8/10/2024;76;Valle del Cauca;76863;Versalles;4.575.218.793.742.650;-7.619.998.899.009.910;Parque Principal;Machos;Canino;5
+8/10/2024;76;Valle del Cauca;76863;Versalles;4.575.218.793.742.650;-7.619.998.899.009.910;Parque Principal;Hembras;Felinos;17
+8/10/2024;76;Valle del Cauca;76863;Versalles;4.575.218.793.742.650;-7.619.998.899.009.910;Parque Principal;Machos;Felinos;10
+9/10/2024;76;Valle del Cauca;76400;La Unión;4.532.601.332.956.810;-761.031.371.553.172;Parque San Pedro;Hembras;Canino;19
+9/10/2024;76;Valle del Cauca;76400;La Unión;4.532.601.332.956.810;-761.031.371.553.172;Parque San Pedro;Machos;Canino;15
+9/10/2024;76;Valle del Cauca;76400;La Unión;4.532.601.332.956.810;-761.031.371.553.172;Parque San Pedro;Hembras;Felinos;15
+9/10/2024;76;Valle del Cauca;76400;La Unión;4.532.601.332.956.810;-761.031.371.553.172;Parque San Pedro;Machos;Felinos;7
+10/10/2024;76;Valle del Cauca;76036;Andalucía;4.168.989.102.976.250;-761.668.151.477.719;Coliseo Sacúdete;Hembras;Canino;24
+10/10/2024;76;Valle del Cauca;76036;Andalucía;4.168.989.102.976.250;-761.668.151.477.719;Coliseo Sacúdete;Machos;Canino;7
+10/10/2024;76;Valle del Cauca;76036;Andalucía;4.168.989.102.976.250;-761.668.151.477.719;Coliseo Sacúdete;Hembras;Felinos;9
+10/10/2024;76;Valle del Cauca;76036;Andalucía;4.168.989.102.976.250;-761.668.151.477.719;Coliseo Sacúdete;Machos;Felinos;5
+16/10/2024;76;Valle del Cauca;76109;Buenaventura;38.881.255.623.730.300;-770.772.024.784.535;Plazoleta Alcaldía;Hembras;Canino;11
+16/10/2024;76;Valle del Cauca;76109;Buenaventura;38.881.255.623.730.300;-770.772.024.784.535;Plazoleta Alcaldía;Machos;Canino;4
+16/10/2024;76;Valle del Cauca;76109;Buenaventura;38.881.255.623.730.300;-770.772.024.784.535;Plazoleta Alcaldía;Hembras;Felinos;6
+16/10/2024;76;Valle del Cauca;76109;Buenaventura;38.881.255.623.730.300;-770.772.024.784.535;Plazoleta Alcaldía;Machos;Felinos;4
+17/10/2024;76;Valle del Cauca;76275;Florida;33.261.397.334.542.100;-7.623.609.414.593.200;Parque Bosque Municipal Wuepa;Hembras;Canino;20
+17/10/2024;76;Valle del Cauca;76275;Florida;33.261.397.334.542.100;-7.623.609.414.593.200;Parque Bosque Municipal Wuepa;Machos;Canino;9
+17/10/2024;76;Valle del Cauca;76275;Florida;33.261.397.334.542.100;-7.623.609.414.593.200;Parque Bosque Municipal Wuepa;Hembras;Felinos;16
+17/10/2024;76;Valle del Cauca;76275;Florida;33.261.397.334.542.100;-7.623.609.414.593.200;Parque Bosque Municipal Wuepa;Machos;Felinos;11
+22/10/2024;76;Valle del Cauca;76606;Restrepo;38.230.390.527.282;-765.236.614.348.787;Coliseo Municipal;Hembras;Canino;21
+22/10/2024;76;Valle del Cauca;76606;Restrepo;38.230.390.527.282;-765.236.614.348.787;Coliseo Municipal;Machos;Canino;6
+22/10/2024;76;Valle del Cauca;76606;Restrepo;38.230.390.527.282;-765.236.614.348.787;Coliseo Municipal;Hembras;Felinos;13
+22/10/2024;76;Valle del Cauca;76606;Restrepo;38.230.390.527.282;-765.236.614.348.787;Coliseo Municipal;Machos;Felinos;12
+23/10/2024;76;Valle del Cauca;76147;Calima El Darién;4.748.152.919.626.550;-75.909.547.603.593;Coliseo CIC;Hembras;Canino;16
+23/10/2024;76;Valle del Cauca;76147;Calima El Darién;4.748.152.919.626.550;-75.909.547.603.593;Coliseo CIC;Machos;Canino;8
+23/10/2024;76;Valle del Cauca;76147;Calima El Darién;4.748.152.919.626.550;-75.909.547.603.593;Coliseo CIC;Hembras;Felinos;4
+23/10/2024;76;Valle del Cauca;76147;Calima El Darién;4.748.152.919.626.550;-75.909.547.603.593;Coliseo CIC;Machos;Felinos;5
+29/10/2024;76;Valle del Cauca;76113;Bugalagrande;4.212.412.493.281.150;-7.615.708.514.777.160;Coliseo Hector Daniel Useche;Hembras;Canino;8
+29/10/2024;76;Valle del Cauca;76113;Bugalagrande;4.212.412.493.281.150;-7.615.708.514.777.160;Coliseo Hector Daniel Useche;Machos;Canino;9
+29/10/2024;76;Valle del Cauca;76113;Bugalagrande;4.212.412.493.281.150;-7.615.708.514.777.160;Coliseo Hector Daniel Useche;Hembras;Felinos;12
+29/10/2024;76;Valle del Cauca;76113;Bugalagrande;4.212.412.493.281.150;-7.615.708.514.777.160;Coliseo Hector Daniel Useche;Machos;Felinos;9
+30/10/2024;76;Valle del Cauca;76828;Trujillo;4.212.646.994.116.010;-763.181.359.459.268;Plazoleta Alcaldía;Hembras;Canino;21
+30/10/2024;76;Valle del Cauca;76828;Trujillo;4.212.646.994.116.010;-763.181.359.459.268;Plazoleta Alcaldía;Machos;Canino;11
+30/10/2024;76;Valle del Cauca;76828;Trujillo;4.212.646.994.116.010;-763.181.359.459.268;Plazoleta Alcaldía;Hembras;Felinos;12
+30/10/2024;76;Valle del Cauca;76828;Trujillo;4.212.646.994.116.010;-763.181.359.459.268;Plazoleta Alcaldía;Machos;Felinos;6
+5/11/2024;76;Valle del Cauca;76036;Andalucía;4.168.989.102.976.250;-761.668.151.477.719;Sacúdete;Hembras;Canino;12
+5/11/2024;76;Valle del Cauca;76036;Andalucía;4.168.989.102.976.250;-761.668.151.477.719;Sacúdete;Machos;Canino;5
+5/11/2024;76;Valle del Cauca;76036;Andalucía;4.168.989.102.976.250;-761.668.151.477.719;Sacúdete;Hembras;Felinos;15
+5/11/2024;76;Valle del Cauca;76036;Andalucía;4.168.989.102.976.250;-761.668.151.477.719;Sacúdete;Machos;Felinos;15
+6/11/2024;76;Valle del Cauca;76036;Andalucía;4.168.989.102.976.250;-761.668.151.477.719;Sacúdete;Hembras;Canino;19
+6/11/2024;76;Valle del Cauca;76036;Andalucía;4.168.989.102.976.250;-761.668.151.477.719;Sacúdete;Machos;Canino;13
+6/11/2024;76;Valle del Cauca;76036;Andalucía;4.168.989.102.976.250;-761.668.151.477.719;Sacúdete;Hembras;Felinos;11
+6/11/2024;76;Valle del Cauca;76036;Andalucía;4.168.989.102.976.250;-761.668.151.477.719;Sacúdete;Machos;Felinos;12
+7/11/2024;76;Valle del Cauca;76670;San Pedro;39.961.411.896.037.800;-7.622.749.914.777.300;Alcaldía;Hembras;Canino;15
+7/11/2024;76;Valle del Cauca;76670;San Pedro;39.961.411.896.037.800;-7.622.749.914.777.300;Alcaldía;Machos;Canino;7
+7/11/2024;76;Valle del Cauca;76670;San Pedro;39.961.411.896.037.800;-7.622.749.914.777.300;Alcaldía;Hembras;Felinos;10
+7/11/2024;76;Valle del Cauca;76670;San Pedro;39.961.411.896.037.800;-7.622.749.914.777.300;Alcaldía;Machos;Felinos;6
+13/11/2024;76;Valle del Cauca;76130;Villagorgona;3.409.347.509.461.260;-7.634.781.797.045.050;Belo Horizonte;Hembras;Canino;15
+13/11/2024;76;Valle del Cauca;76130;Villagorgona;3.409.347.509.461.260;-7.634.781.797.045.050;Belo Horizonte;Machos;Canino;19
+13/11/2024;76;Valle del Cauca;76130;Villagorgona;3.409.347.509.461.260;-7.634.781.797.045.050;Belo Horizonte;Hembras;Felinos;11
+13/11/2024;76;Valle del Cauca;76130;Villagorgona;3.409.347.509.461.260;-7.634.781.797.045.050;Belo Horizonte;Machos;Felinos;6
+14/11/2024;76;Valle del Cauca;76109;Cisneros;38.881.255.623.730.300;-770.772.024.784.535;Cisneros;Hembras;Canino;15
+14/11/2024;76;Valle del Cauca;76109;Cisneros;38.881.255.623.730.300;-770.772.024.784.535;Cisneros;Machos;Canino;4
+14/11/2024;76;Valle del Cauca;76109;Cisneros;38.881.255.623.730.300;-770.772.024.784.535;Cisneros;Hembras;Felinos;11
+14/11/2024;76;Valle del Cauca;76109;Cisneros;38.881.255.623.730.300;-770.772.024.784.535;Cisneros;Machos;Felinos;12
+15/11/2024;76;Valle del Cauca;76895;Zarzal;439.507.765.759.807;-7.607.073.861.893.540;Casa de la Cultura;Hembras;Canino;23
+15/11/2024;76;Valle del Cauca;76895;Zarzal;439.507.765.759.807;-7.607.073.861.893.540;Casa de la Cultura;Machos;Canino;10
+15/11/2024;76;Valle del Cauca;76895;Zarzal;439.507.765.759.807;-7.607.073.861.893.540;Casa de la Cultura;Hembras;Felinos;15
+15/11/2024;76;Valle del Cauca;76895;Zarzal;439.507.765.759.807;-7.607.073.861.893.540;Casa de la Cultura;Machos;Felinos;5
+16/11/2024;76;Valle del Cauca;76111;Buga;3.899.599.152.031.170;-7.630.070.483.427.850;Parque Alto Bonito;Hembras;Canino;22
+16/11/2024;76;Valle del Cauca;76111;Buga;3.899.599.152.031.170;-7.630.070.483.427.850;Parque Alto Bonito;Machos;Canino;7
+16/11/2024;76;Valle del Cauca;76111;Buga;3.899.599.152.031.170;-7.630.070.483.427.850;Parque Alto Bonito;Hembras;Felinos;12
+16/11/2024;76;Valle del Cauca;76111;Buga;3.899.599.152.031.170;-7.630.070.483.427.850;Parque Alto Bonito;Machos;Felinos;14
+20/11/2024;76;Valle del Cauca;76243;El Águila;4.908.800.537.350.220;-7.604.191.657.660.150;Parque Principal;Hembras;Canino;18
+20/11/2024;76;Valle del Cauca;76243;El Águila;4.908.800.537.350.220;-7.604.191.657.660.150;Parque Principal;Machos;Canino;11
+20/11/2024;76;Valle del Cauca;76243;El Águila;4.908.800.537.350.220;-7.604.191.657.660.150;Parque Principal;Hembras;Felinos;12
+20/11/2024;76;Valle del Cauca;76243;El Águila;4.908.800.537.350.220;-7.604.191.657.660.150;Parque Principal;Machos;Felinos;5
+21/11/2024;76;Valle del Cauca;76243;El Águila;4.908.800.537.350.220;-7.604.191.657.660.150;Parque Principal;Hembras;Canino;15
+21/11/2024;76;Valle del Cauca;76243;El Águila;4.908.800.537.350.220;-7.604.191.657.660.150;Parque Principal;Machos;Canino;7
+21/11/2024;76;Valle del Cauca;76243;El Águila;4.908.800.537.350.220;-7.604.191.657.660.150;Parque Principal;Hembras;Felinos;8
+21/11/2024;76;Valle del Cauca;76243;El Águila;4.908.800.537.350.220;-7.604.191.657.660.150;Parque Principal;Machos;Felinos;12
+22/11/2024;76;Valle del Cauca;76041;Ansermanuevo;4.796.283.055.465.210;-7.599.396.854.961.230;Coliseo parque;Hembras;Canino;20
+22/11/2024;76;Valle del Cauca;76041;Ansermanuevo;4.796.283.055.465.210;-7.599.396.854.961.230;Coliseo parque;Machos;Canino;11
+22/11/2024;76;Valle del Cauca;76041;Ansermanuevo;4.796.283.055.465.210;-7.599.396.854.961.230;Coliseo parque;Hembras;Felinos;13
+22/11/2024;76;Valle del Cauca;76041;Ansermanuevo;4.796.283.055.465.210;-7.599.396.854.961.230;Coliseo parque;Machos;Felinos;13
+26/11/2024;76;Valle del Cauca;76869;Vijes;37.011.595.900.967.800;-7.644.252.712.078.460;Parque Principal;Hembras;Canino;20
+26/11/2024;76;Valle del Cauca;76869;Vijes;37.011.595.900.967.800;-7.644.252.712.078.460;Parque Principal;Machos;Canino;10
+26/11/2024;76;Valle del Cauca;76869;Vijes;37.011.595.900.967.800;-7.644.252.712.078.460;Parque Principal;Hembras;Felinos;9
+26/11/2024;76;Valle del Cauca;76869;Vijes;37.011.595.900.967.800;-7.644.252.712.078.460;Parque Principal;Machos;Felinos;5
+27/11/2024;76;Valle del Cauca;76377;La Cumbre;3.648.464.874.337.450;-7.656.748.520.544.500;Parque Principal;Hembras;Canino;10
+27/11/2024;76;Valle del Cauca;76377;La Cumbre;3.648.464.874.337.450;-7.656.748.520.544.500;Parque Principal;Machos;Canino;11
+27/11/2024;76;Valle del Cauca;76377;La Cumbre;3.648.464.874.337.450;-7.656.748.520.544.500;Parque Principal;Hembras;Felinos;8
+27/11/2024;76;Valle del Cauca;76377;La Cumbre;3.648.464.874.337.450;-7.656.748.520.544.500;Parque Principal;Machos;Felinos;4
+28/11/2024;76;Valle del Cauca;76248;El Cerrito;36.846.192.028.393.900;-7.631.246.027.476.510;Coliseo CIC;Hembras;Canino;18
+28/11/2024;76;Valle del Cauca;76248;El Cerrito;36.846.192.028.393.900;-7.631.246.027.476.510;Coliseo CIC;Machos;Canino;6
+28/11/2024;76;Valle del Cauca;76248;El Cerrito;36.846.192.028.393.900;-7.631.246.027.476.510;Coliseo CIC;Hembras;Felinos;6
+28/11/2024;76;Valle del Cauca;76248;El Cerrito;36.846.192.028.393.900;-7.631.246.027.476.510;Coliseo CIC;Machos;Felinos;18
+29/11/2024;76;Valle del Cauca;76520;Palmira;35.269.643.156.692.700;-7.630.005.207.661.070;Parque Bosque Municipal;Hembras;Canino;11
+29/11/2024;76;Valle del Cauca;76520;Palmira;35.269.643.156.692.700;-7.630.005.207.661.070;Parque Bosque Municipal;Machos;Canino;8
+29/11/2024;76;Valle del Cauca;76520;Palmira;35.269.643.156.692.700;-7.630.005.207.661.070;Parque Bosque Municipal;Hembras;Felinos;9
+29/11/2024;76;Valle del Cauca;76520;Palmira;35.269.643.156.692.700;-7.630.005.207.661.070;Parque Bosque Municipal;Machos;Felinos;4
+4/12/2024;76;Valle del Cauca;76020;Alcalá;4.675.083.171.850.430;-7.578.197.692.077.820;Estación de Policía;Hembras;Canino;25
+4/12/2024;76;Valle del Cauca;76020;Alcalá;4.675.083.171.850.430;-7.578.197.692.077.820;Estación de Policía;Machos;Canino;15
+4/12/2024;76;Valle del Cauca;76020;Alcalá;4.675.083.171.850.430;-7.578.197.692.077.820;Estación de Policía;Hembras;Felinos;5
+4/12/2024;76;Valle del Cauca;76020;Alcalá;4.675.083.171.850.430;-7.578.197.692.077.820;Estación de Policía;Machos;Felinos;5
+5/12/2024;76;Valle del Cauca;76111;Buga;3.899.599.152.031.170;-7.630.070.483.427.850;Parque Bosque Municipal;Hembras;Canino;20
+5/12/2024;76;Valle del Cauca;76111;Buga;3.899.599.152.031.170;-7.630.070.483.427.850;Parque Bosque Municipal;Machos;Canino;12
+5/12/2024;76;Valle del Cauca;76111;Buga;3.899.599.152.031.170;-7.630.070.483.427.850;Parque Bosque Municipal;Hembras;Felinos;5
+5/12/2024;76;Valle del Cauca;76111;Buga;3.899.599.152.031.170;-7.630.070.483.427.850;Parque Bosque Municipal;Machos;Felinos;13
+10/12/2024;76;Valle del Cauca;76616;Riofrio;4.155.627.607.157.360;-762.871.873.882.573;Parque Principal;Hembras;Canino;12
+10/12/2024;76;Valle del Cauca;76616;Riofrio;4.155.627.607.157.360;-762.871.873.882.573;Parque Principal;Machos;Canino;8
+10/12/2024;76;Valle del Cauca;76616;Riofrio;4.155.627.607.157.360;-762.871.873.882.573;Parque Principal;Hembras;Felinos;13
+10/12/2024;76;Valle del Cauca;76616;Riofrio;4.155.627.607.157.360;-762.871.873.882.573;Parque Principal;Machos;Felinos;10
+11/12/2024;76;Valle del Cauca;76036;Andalucía;4.168.989.102.976.250;-761.668.151.477.719;Sacúdete;Hembras;Canino;10
+11/12/2024;76;Valle del Cauca;76036;Andalucía;4.168.989.102.976.250;-761.668.151.477.719;Sacúdete;Machos;Canino;8
+11/12/2024;76;Valle del Cauca;76036;Andalucía;4.168.989.102.976.250;-761.668.151.477.719;Sacúdete;Hembras;Felinos;14
+11/12/2024;76;Valle del Cauca;76036;Andalucía;4.168.989.102.976.250;-761.668.151.477.719;Sacúdete;Machos;Felinos;5
+12/12/2024;76;Valle del Cauca;76036;Andalucía;4.168.989.102.976.250;-761.668.151.477.719;Sacúdete;Hembras;Canino;9
+12/12/2024;76;Valle del Cauca;76036;Andalucía;4.168.989.102.976.250;-761.668.151.477.719;Sacúdete;Machos;Canino;11
+12/12/2024;76;Valle del Cauca;76036;Andalucía;4.168.989.102.976.250;-761.668.151.477.719;Sacúdete;Hembras;Felinos;18
+12/12/2024;76;Valle del Cauca;76036;Andalucía;4.168.989.102.976.250;-761.668.151.477.719;Sacúdete;Machos;Felinos;7
+17/12/2024;76;Valle del Cauca;76845;Ulloa;4.738.339.028.897.800;-757.315.513.751.376;Polideportivo parque principal;Hembras;Canino;19
+17/12/2024;76;Valle del Cauca;76845;Ulloa;4.738.339.028.897.800;-757.315.513.751.376;Polideportivo parque principal;Machos;Canino;14
+17/12/2024;76;Valle del Cauca;76845;Ulloa;4.738.339.028.897.800;-757.315.513.751.376;Polideportivo parque principal;Hembras;Felinos;9
+17/12/2024;76;Valle del Cauca;76845;Ulloa;4.738.339.028.897.800;-757.315.513.751.376;Polideportivo parque principal;Machos;Felinos;4
+18/12/2024;76;Valle del Cauca;76403;La Victoria;4.523.724.112.909.870;-7.603.629.249.194.430;Parqueadero Hospital;Hembras;Canino;12
+18/12/2024;76;Valle del Cauca;76403;La Victoria;4.523.724.112.909.870;-7.603.629.249.194.430;Parqueadero Hospital;Machos;Canino;8
+18/12/2024;76;Valle del Cauca;76403;La Victoria;4.523.724.112.909.870;-7.603.629.249.194.430;Parqueadero Hospital;Hembras;Felinos;13
+18/12/2024;76;Valle del Cauca;76403;La Victoria;4.523.724.112.909.870;-7.603.629.249.194.430;Parqueadero Hospital;Machos;Felinos;7
+20/12/2024;76;Valle del Cauca;76126;Candelaria;3.954.626.129.719.530;-7.648.322.146.220.290;Polideportivo Villagorgona V6;Hembras;Canino;19
+20/12/2024;76;Valle del Cauca;76126;Candelaria;3.954.626.129.719.530;-7.648.322.146.220.290;Polideportivo Villagorgona V6;Machos;Canino;17
+20/12/2024;76;Valle del Cauca;76126;Candelaria;3.954.626.129.719.530;-7.648.322.146.220.290;Polideportivo Villagorgona V6;Hembras;Felinos;7
+20/12/2024;76;Valle del Cauca;76126;Candelaria;3.954.626.129.719.530;-7.648.322.146.220.290;Polideportivo Villagorgona V6;Machos;Felinos;5
+31/01/2025;76;Valle del Cauca;76126;Candelaria;3.954.626.129.719.530;-7.648.322.146.220.290;Barrio Ángeles (Villagorgona);Hembras;Canino;13
+31/01/2025;76;Valle del Cauca;76126;Candelaria;3.954.626.129.719.530;-7.648.322.146.220.290;Barrio Ángeles (Villagorgona);Machos;Canino;9
+31/01/2025;76;Valle del Cauca;76126;Candelaria;3.954.626.129.719.530;-7.648.322.146.220.290;Barrio Ángeles (Villagorgona);Hembras;Felinos;8
+31/01/2025;76;Valle del Cauca;76126;Candelaria;3.954.626.129.719.530;-7.648.322.146.220.290;Barrio Ángeles (Villagorgona);Machos;Felinos;9
+5/02/2025;76;Valle del Cauca;76563;Pradera;342.039.795.490.065;-7.624.224.754.962.120;Coliseo Las Margaritas;Hembras;Canino;16
+5/02/2025;76;Valle del Cauca;76563;Pradera;342.039.795.490.065;-7.624.224.754.962.120;Coliseo Las Margaritas;Machos;Canino;10
+5/02/2025;76;Valle del Cauca;76563;Pradera;342.039.795.490.065;-7.624.224.754.962.120;Coliseo Las Margaritas;Hembras;Felinos;5
+5/02/2025;76;Valle del Cauca;76563;Pradera;342.039.795.490.065;-7.624.224.754.962.120;Coliseo Las Margaritas;Machos;Felinos;5
+7/02/2025;76;Valle del Cauca;76275;Florida;33.261.397.334.542.100;-7.623.609.414.593.200;Corregimiento Chocosito. Salón comunal;Hembras;Canino;18
+7/02/2025;76;Valle del Cauca;76275;Florida;33.261.397.334.542.100;-7.623.609.414.593.200;Corregimiento Chocosito. Salón comunal;Machos;Canino;13
+7/02/2025;76;Valle del Cauca;76275;Florida;33.261.397.334.542.100;-7.623.609.414.593.200;Corregimiento Chocosito. Salón comunal;Hembras;Felinos;10
+7/02/2025;76;Valle del Cauca;76275;Florida;33.261.397.334.542.100;-7.623.609.414.593.200;Corregimiento Chocosito. Salón comunal;Machos;Felinos;5
+7/03/2025;76;Valle del Cauca;76892;Yumbo;3.583.946.637.769.680;-764.957.929.342.804;Polideportivo La Tomatera;Hembras;Canino;13
+7/03/2025;76;Valle del Cauca;76892;Yumbo;3.583.946.637.769.680;-764.957.929.342.804;Polideportivo La Tomatera;Machos;Canino;9
+7/03/2025;76;Valle del Cauca;76892;Yumbo;3.583.946.637.769.680;-764.957.929.342.804;Polideportivo La Tomatera;Hembras;Felinos;10
+7/03/2025;76;Valle del Cauca;76892;Yumbo;3.583.946.637.769.680;-764.957.929.342.804;Polideportivo La Tomatera;Machos;Felinos;11
+13/03/2025;76;Valle del Cauca;76869;Vijes;37.011.595.900.967.800;-7.644.252.712.078.460;Parque Principal;Hembras;Canino;13
+13/03/2025;76;Valle del Cauca;76869;Vijes;37.011.595.900.967.800;-7.644.252.712.078.460;Parque Principal;Machos;Canino;11
+13/03/2025;76;Valle del Cauca;76869;Vijes;37.011.595.900.967.800;-7.644.252.712.078.460;Parque Principal;Hembras;Felinos;13
+13/03/2025;76;Valle del Cauca;76869;Vijes;37.011.595.900.967.800;-7.644.252.712.078.460;Parque Principal;Machos;Felinos;6
+14/03/2025;76;Valle del Cauca;76248;El Cerrito;36.846.192.028.393.900;-7.631.246.027.476.510;Plazoleta La Estación;Hembras;Canino;23
+14/03/2025;76;Valle del Cauca;76248;El Cerrito;36.846.192.028.393.900;-7.631.246.027.476.510;Plazoleta La Estación;Machos;Canino;11
+14/03/2025;76;Valle del Cauca;76248;El Cerrito;36.846.192.028.393.900;-7.631.246.027.476.510;Plazoleta La Estación;Hembras;Felinos;16
+14/03/2025;76;Valle del Cauca;76248;El Cerrito;36.846.192.028.393.900;-7.631.246.027.476.510;Plazoleta La Estación;Machos;Felinos;9
+28/04/2025;76;Valle del Cauca;76892;Yumbo;3.583.946.637.769.680;-764.957.929.342.804;Corregimiento San Marcos -Centro de acción comunal;Hembras;Canino;9
+28/04/2025;76;Valle del Cauca;76892;Yumbo;3.583.946.637.769.680;-764.957.929.342.804;Corregimiento San Marcos -Centro de acción comunal;Machos;Canino;7
+28/04/2025;76;Valle del Cauca;76892;Yumbo;3.583.946.637.769.680;-764.957.929.342.804;Corregimiento San Marcos -Centro de acción comunal;Hembras;Felinos;14
+28/04/2025;76;Valle del Cauca;76892;Yumbo;3.583.946.637.769.680;-764.957.929.342.804;Corregimiento San Marcos -Centro de acción comunal;Machos;Felinos;8
+29/04/2025;76;Valle del Cauca;76892;Yumbo;3.583.946.637.769.680;-764.957.929.342.804;Corregimiento Manga Vieja;Hembras;Canino;19
+29/04/2025;76;Valle del Cauca;76892;Yumbo;3.583.946.637.769.680;-764.957.929.342.804;Corregimiento Manga Vieja;Machos;Canino;7
+29/04/2025;76;Valle del Cauca;76892;Yumbo;3.583.946.637.769.680;-764.957.929.342.804;Corregimiento Manga Vieja;Hembras;Felinos;10
+29/04/2025;76;Valle del Cauca;76892;Yumbo;3.583.946.637.769.680;-764.957.929.342.804;Corregimiento Manga Vieja;Machos;Felinos;5
+30/04/2025;76;Valle del Cauca;76892;Yumbo;3.583.946.637.769.680;-764.957.929.342.804;Corregimiento Mulaló;Hembras;Canino;12
+30/04/2025;76;Valle del Cauca;76892;Yumbo;3.583.946.637.769.680;-764.957.929.342.804;Corregimiento Mulaló;Machos;Canino;6
+30/04/2025;76;Valle del Cauca;76892;Yumbo;3.583.946.637.769.680;-764.957.929.342.804;Corregimiento Mulaló;Hembras;Felinos;14
+30/04/2025;76;Valle del Cauca;76892;Yumbo;3.583.946.637.769.680;-764.957.929.342.804;Corregimiento Mulaló;Machos;Felinos;13
+8/05/2025;76;Valle del Cauca;76892;Yumbo;3.583.946.637.769.680;-764.957.929.342.804;Corregimiento Piles;Hembras;Canino;28
+8/05/2025;76;Valle del Cauca;76892;Yumbo;3.583.946.637.769.680;-764.957.929.342.804;Corregimiento Piles;Machos;Canino;7
+8/05/2025;76;Valle del Cauca;76892;Yumbo;3.583.946.637.769.680;-764.957.929.342.804;Corregimiento Piles;Hembras;Felinos;6
+8/05/2025;76;Valle del Cauca;76892;Yumbo;3.583.946.637.769.680;-764.957.929.342.804;Corregimiento Piles;Machos;Felinos;10
+14/05/2025;76;Valle del Cauca;76563;Pradera;342.039.795.490.065;-7.624.224.754.962.120;Coliseo Las Margaritas;Hembras;Canino;14
+14/05/2025;76;Valle del Cauca;76563;Pradera;342.039.795.490.065;-7.624.224.754.962.120;Coliseo Las Margaritas;Machos;Canino;12
+14/05/2025;76;Valle del Cauca;76563;Pradera;342.039.795.490.065;-7.624.224.754.962.120;Coliseo Las Margaritas;Hembras;Felinos;5
+14/05/2025;76;Valle del Cauca;76563;Pradera;342.039.795.490.065;-7.624.224.754.962.120;Coliseo Las Margaritas;Machos;Felinos;5
+15/05/2025;76;Valle del Cauca;76364;Jamundí;32.613.358.457.008.200;-765.406.097.901.073;Biblioteca Mpal;Hembras;Canino;14
+15/05/2025;76;Valle del Cauca;76364;Jamundí;32.613.358.457.008.200;-765.406.097.901.073;Biblioteca Mpal;Machos;Canino;2
+15/05/2025;76;Valle del Cauca;76364;Jamundí;32.613.358.457.008.200;-765.406.097.901.073;Biblioteca Mpal;Hembras;Felinos;6
+15/05/2025;76;Valle del Cauca;76364;Jamundí;32.613.358.457.008.200;-765.406.097.901.073;Biblioteca Mpal;Machos;Felinos;7
+9/06/2025;76;Valle del Cauca;76622;Roldanillo;4.411.284.145.486.310;-7.615.434.946.126.530;La Granja;Hembras;Canino;13
+9/06/2025;76;Valle del Cauca;76622;Roldanillo;4.411.284.145.486.310;-7.615.434.946.126.530;La Granja;Machos;Canino;15
+9/06/2025;76;Valle del Cauca;76622;Roldanillo;4.411.284.145.486.310;-7.615.434.946.126.530;La Granja;Hembras;Felinos;16
+9/06/2025;76;Valle del Cauca;76622;Roldanillo;4.411.284.145.486.310;-7.615.434.946.126.530;La Granja;Machos;Felinos;5
+10/06/2025;76;Valle del Cauca;76130;Cartago;3.409.347.509.461.260;-7.634.781.797.045.050;La Isleta;Hembras;Canino;16
+10/06/2025;76;Valle del Cauca;76130;Cartago;3.409.347.509.461.260;-7.634.781.797.045.050;La Isleta;Machos;Canino;8
+10/06/2025;76;Valle del Cauca;76130;Cartago;3.409.347.509.461.260;-7.634.781.797.045.050;La Isleta;Hembras;Felinos;10
+10/06/2025;76;Valle del Cauca;76130;Cartago;3.409.347.509.461.260;-7.634.781.797.045.050;La Isleta;Machos;Felinos;11
+12/06/2025;76;Valle del Cauca;76318;Guacarí;3.764.245.397.710.900;-7.633.423.086.408.020;Parque Principal;Hembras;Canino;23
+12/06/2025;76;Valle del Cauca;76318;Guacarí;3.764.245.397.710.900;-7.633.423.086.408.020;Parque Principal;Machos;Canino;7
+12/06/2025;76;Valle del Cauca;76318;Guacarí;3.764.245.397.710.900;-7.633.423.086.408.020;Parque Principal;Hembras;Felinos;12
+12/06/2025;76;Valle del Cauca;76318;Guacarí;3.764.245.397.710.900;-7.633.423.086.408.020;Parque Principal;Machos;Felinos;6
+13/06/2025;76;Valle del Cauca;76520;Palmira;35.269.643.156.692.700;-7.630.005.207.661.070;Coliseo de Ferias;Hembras;Canino;13
+13/06/2025;76;Valle del Cauca;76520;Palmira;35.269.643.156.692.700;-7.630.005.207.661.070;Coliseo de Ferias;Machos;Canino;6
+13/06/2025;76;Valle del Cauca;76520;Palmira;35.269.643.156.692.700;-7.630.005.207.661.070;Coliseo de Ferias;Hembras;Felinos;9
+13/06/2025;76;Valle del Cauca;76520;Palmira;35.269.643.156.692.700;-7.630.005.207.661.070;Coliseo de Ferias;Machos;Felinos;7
+16/06/2025;76;Valle del Cauca;76377;La Cumbre;3.648.464.874.337.450;-7.656.748.520.544.500;Refugio Animal;Hembras;Canino;11
+16/06/2025;76;Valle del Cauca;76377;La Cumbre;3.648.464.874.337.450;-7.656.748.520.544.500;Refugio Animal;Machos;Canino;11
+16/06/2025;76;Valle del Cauca;76377;La Cumbre;3.648.464.874.337.450;-7.656.748.520.544.500;Refugio Animal;Hembras;Felinos;8
+16/06/2025;76;Valle del Cauca;76377;La Cumbre;3.648.464.874.337.450;-7.656.748.520.544.500;Refugio Animal;Machos;Felinos;10
+17/06/2025;76;Valle del Cauca;76377;La Cumbre;3.648.464.874.337.450;-7.656.748.520.544.500;Refugio Animal;Hembras;Canino;15
+17/06/2025;76;Valle del Cauca;76377;La Cumbre;3.648.464.874.337.450;-7.656.748.520.544.500;Refugio Animal;Machos;Canino;9
+17/06/2025;76;Valle del Cauca;76377;La Cumbre;3.648.464.874.337.450;-7.656.748.520.544.500;Refugio Animal;Hembras;Felinos;12
+17/06/2025;76;Valle del Cauca;76377;La Cumbre;3.648.464.874.337.450;-7.656.748.520.544.500;Refugio Animal;Machos;Felinos;9
+18/06/2025;76;Valle del Cauca;76275;Florida;33.261.397.334.542.100;-7.623.609.414.593.200;Parque Bosque Municipal;Hembras;Canino;16
+18/06/2025;76;Valle del Cauca;76275;Florida;33.261.397.334.542.100;-7.623.609.414.593.200;Parque Bosque Municipal;Machos;Canino;3
+18/06/2025;76;Valle del Cauca;76275;Florida;33.261.397.334.542.100;-7.623.609.414.593.200;Parque Bosque Municipal;Hembras;Felinos;14
+18/06/2025;76;Valle del Cauca;76275;Florida;33.261.397.334.542.100;-7.623.609.414.593.200;Parque Bosque Municipal;Machos;Felinos;20
+24/06/2025;76;Valle del Cauca;76233;Dagua;3.657.627.442.965.970;-7.669.363.723.243.510;Borrero Ayerbe, Coliseo;Hembras;Canino;17
+24/06/2025;76;Valle del Cauca;76233;Dagua;3.657.627.442.965.970;-7.669.363.723.243.510;Borrero Ayerbe, Coliseo;Machos;Canino;14
+24/06/2025;76;Valle del Cauca;76233;Dagua;3.657.627.442.965.970;-7.669.363.723.243.510;Borrero Ayerbe, Coliseo;Hembras;Felinos;3
+24/06/2025;76;Valle del Cauca;76233;Dagua;3.657.627.442.965.970;-7.669.363.723.243.510;Borrero Ayerbe, Coliseo;Machos;Felinos;4
+27/06/2025;76;Valle del Cauca;76126;Candelaria;3.954.626.129.719.530;-7.648.322.146.220.290;El Carmelo, Corregimiento (Biblioteca);Hembras;Canino;19
+27/06/2025;76;Valle del Cauca;76126;Candelaria;3.954.626.129.719.530;-7.648.322.146.220.290;El Carmelo, Corregimiento (Biblioteca);Machos;Canino;2
+27/06/2025;76;Valle del Cauca;76126;Candelaria;3.954.626.129.719.530;-7.648.322.146.220.290;El Carmelo, Corregimiento (Biblioteca);Hembras;Felinos;30
+27/06/2025;76;Valle del Cauca;76126;Candelaria;3.954.626.129.719.530;-7.648.322.146.220.290;El Carmelo, Corregimiento (Biblioteca);Machos;Felinos;3
+2/07/2025;76;Valle del Cauca;76834;Tuluá;40.863.619.224.404.000;-761.976.832.422.381;Coliseo de Ferias;Hembras;Canino;18
+2/07/2025;76;Valle del Cauca;76834;Tuluá;40.863.619.224.404.000;-761.976.832.422.381;Coliseo de Ferias;Machos;Canino;9
+2/07/2025;76;Valle del Cauca;76834;Tuluá;40.863.619.224.404.000;-761.976.832.422.381;Coliseo de Ferias;Hembras;Felinos;11
+2/07/2025;76;Valle del Cauca;76834;Tuluá;40.863.619.224.404.000;-761.976.832.422.381;Coliseo de Ferias;Machos;Felinos;12
+10/07/2025;76;Valle del Cauca;76834;Tuluá;40.863.619.224.404.000;-761.976.832.422.381;Coliseo de Ferias;Hembras;Canino;12
+10/07/2025;76;Valle del Cauca;76834;Tuluá;40.863.619.224.404.000;-761.976.832.422.381;Coliseo de Ferias;Machos;Canino;8
+10/07/2025;76;Valle del Cauca;76834;Tuluá;40.863.619.224.404.000;-761.976.832.422.381;Coliseo de Ferias;Hembras;Felinos;19
+10/07/2025;76;Valle del Cauca;76834;Tuluá;40.863.619.224.404.000;-761.976.832.422.381;Coliseo de Ferias;Machos;Felinos;9
+11/07/2025;76;Valle del Cauca;76109;Buenaventura;38.881.255.623.730.300;-770.772.024.784.535;Barrio Caldas;Hembras;Canino;11
+11/07/2025;76;Valle del Cauca;76109;Buenaventura;38.881.255.623.730.300;-770.772.024.784.535;Barrio Caldas;Machos;Canino;1
+11/07/2025;76;Valle del Cauca;76109;Buenaventura;38.881.255.623.730.300;-770.772.024.784.535;Barrio Caldas;Hembras;Felinos;7
+11/07/2025;76;Valle del Cauca;76109;Buenaventura;38.881.255.623.730.300;-770.772.024.784.535;Barrio Caldas;Machos;Felinos;5
+14/07/2025;76;Valle del Cauca;76892;Yumbo;3.583.946.637.769.680;-764.957.929.342.804;Corregimiento Piles;Hembras;Canino;22
+14/07/2025;76;Valle del Cauca;76892;Yumbo;3.583.946.637.769.680;-764.957.929.342.804;Corregimiento Piles;Machos;Canino;8
+14/07/2025;76;Valle del Cauca;76892;Yumbo;3.583.946.637.769.680;-764.957.929.342.804;Corregimiento Piles;Hembras;Felinos;6
+14/07/2025;76;Valle del Cauca;76892;Yumbo;3.583.946.637.769.680;-764.957.929.342.804;Corregimiento Piles;Machos;Felinos;8
+15/07/2025;76;Valle del Cauca;76892;Yumbo;3.583.946.637.769.680;-764.957.929.342.804;Corregimiento Montañitas;Hembras;Canino;13
+15/07/2025;76;Valle del Cauca;76892;Yumbo;3.583.946.637.769.680;-764.957.929.342.804;Corregimiento Montañitas;Machos;Canino;17
+15/07/2025;76;Valle del Cauca;76892;Yumbo;3.583.946.637.769.680;-764.957.929.342.804;Corregimiento Montañitas;Hembras;Felinos;7
+15/07/2025;76;Valle del Cauca;76892;Yumbo;3.583.946.637.769.680;-764.957.929.342.804;Corregimiento Montañitas;Machos;Felinos;10
+16/07/2025;76;Valle del Cauca;76892;Yumbo;3.583.946.637.769.680;-764.957.929.342.804;Barrio Las Américas;Hembras;Canino;17
+16/07/2025;76;Valle del Cauca;76892;Yumbo;3.583.946.637.769.680;-764.957.929.342.804;Barrio Las Américas;Machos;Canino;7
+16/07/2025;76;Valle del Cauca;76892;Yumbo;3.583.946.637.769.680;-764.957.929.342.804;Barrio Las Américas;Hembras;Felinos;15
+16/07/2025;76;Valle del Cauca;76892;Yumbo;3.583.946.637.769.680;-764.957.929.342.804;Barrio Las Américas;Machos;Felinos;9
+17/07/2025;76;Valle del Cauca;76892;Yumbo;3.583.946.637.769.680;-764.957.929.342.804;Barrio Bella Vista;Hembras;Canino;13
+17/07/2025;76;Valle del Cauca;76892;Yumbo;3.583.946.637.769.680;-764.957.929.342.804;Barrio Bella Vista;Machos;Canino;7
+17/07/2025;76;Valle del Cauca;76892;Yumbo;3.583.946.637.769.680;-764.957.929.342.804;Barrio Bella Vista;Hembras;Felinos;21
+17/07/2025;76;Valle del Cauca;76892;Yumbo;3.583.946.637.769.680;-764.957.929.342.804;Barrio Bella Vista;Machos;Felinos;13
+18/07/2025;76;Valle del Cauca;76892;Yumbo;3.583.946.637.769.680;-764.957.929.342.804;Barrio Nuevo Horizonte;Hembras;Canino;25
+18/07/2025;76;Valle del Cauca;76892;Yumbo;3.583.946.637.769.680;-764.957.929.342.804;Barrio Nuevo Horizonte;Machos;Canino;10
+18/07/2025;76;Valle del Cauca;76892;Yumbo;3.583.946.637.769.680;-764.957.929.342.804;Barrio Nuevo Horizonte;Hembras;Felinos;6
+18/07/2025;76;Valle del Cauca;76892;Yumbo;3.583.946.637.769.680;-764.957.929.342.804;Barrio Nuevo Horizonte;Machos;Felinos;10
+22/07/2025;76;Valle del Cauca;76563;Pradera;342.039.795.490.065;-7.624.224.754.962.120;Parque Los Samanes;Hembras;Canino;14
+22/07/2025;76;Valle del Cauca;76563;Pradera;342.039.795.490.065;-7.624.224.754.962.120;Parque Los Samanes;Machos;Canino;11
+22/07/2025;76;Valle del Cauca;76563;Pradera;342.039.795.490.065;-7.624.224.754.962.120;Parque Los Samanes;Hembras;Felinos;14
+22/07/2025;76;Valle del Cauca;76563;Pradera;342.039.795.490.065;-7.624.224.754.962.120;Parque Los Samanes;Machos;Felinos;13
+23/07/2025;76;Valle del Cauca;76736;Sevilla;4.265.394.045.050.650;-7.593.416.369.649.170;Biblioteca Mpal;Hembras;Canino;13
+23/07/2025;76;Valle del Cauca;76736;Sevilla;4.265.394.045.050.650;-7.593.416.369.649.170;Biblioteca Mpal;Machos;Canino;8
+23/07/2025;76;Valle del Cauca;76736;Sevilla;4.265.394.045.050.650;-7.593.416.369.649.170;Biblioteca Mpal;Hembras;Felinos;14
+23/07/2025;76;Valle del Cauca;76736;Sevilla;4.265.394.045.050.650;-7.593.416.369.649.170;Biblioteca Mpal;Machos;Felinos;8
+24/07/2025;76;Valle del Cauca;76736;Sevilla;4.265.394.045.050.650;-7.593.416.369.649.170;Biblioteca Mpal;Hembras;Canino;17
+24/07/2025;76;Valle del Cauca;76736;Sevilla;4.265.394.045.050.650;-7.593.416.369.649.170;Biblioteca Mpal;Machos;Canino;10
+24/07/2025;76;Valle del Cauca;76736;Sevilla;4.265.394.045.050.650;-7.593.416.369.649.170;Biblioteca Mpal;Hembras;Felinos;15
+24/07/2025;76;Valle del Cauca;76736;Sevilla;4.265.394.045.050.650;-7.593.416.369.649.170;Biblioteca Mpal;Machos;Felinos;8
+25/07/2025;76;Valle del Cauca;76122;Caicedonia;43.315.158.576.977.500;-75.829.255.203.596;Centro Cívico de Deportes;Hembras;Canino;23
+25/07/2025;76;Valle del Cauca;76122;Caicedonia;43.315.158.576.977.500;-75.829.255.203.596;Centro Cívico de Deportes;Machos;Canino;14
+25/07/2025;76;Valle del Cauca;76122;Caicedonia;43.315.158.576.977.500;-75.829.255.203.596;Centro Cívico de Deportes;Hembras;Felinos;4
+25/07/2025;76;Valle del Cauca;76122;Caicedonia;43.315.158.576.977.500;-75.829.255.203.596;Centro Cívico de Deportes;Machos;Felinos;2
+26/07/2025;76;Valle del Cauca;76001;Cali;3.454.710.608.594.070;-7.653.418.371.894.120;Parque Barrio 1 de mayo, comuna 17;Hembras;Canino;14
+26/07/2025;76;Valle del Cauca;76001;Cali;3.454.710.608.594.070;-7.653.418.371.894.120;Parque Barrio 1 de mayo, comuna 17;Machos;Canino;7
+26/07/2025;76;Valle del Cauca;76001;Cali;3.454.710.608.594.070;-7.653.418.371.894.120;Parque Barrio 1 de mayo, comuna 17;Hembras;Felinos;6
+26/07/2025;76;Valle del Cauca;76001;Cali;3.454.710.608.594.070;-7.653.418.371.894.120;Parque Barrio 1 de mayo, comuna 17;Machos;Felinos;2
+29/07/2025;76;Valle del Cauca;76250;El Dovio;4.511.535.642.587.150;-7.623.859.573.427.440;Parque Principal;Hembras;Canino;13
+29/07/2025;76;Valle del Cauca;76250;El Dovio;4.511.535.642.587.150;-7.623.859.573.427.440;Parque Principal;Machos;Canino;9
+29/07/2025;76;Valle del Cauca;76250;El Dovio;4.511.535.642.587.150;-7.623.859.573.427.440;Parque Principal;Hembras;Felinos;8
+29/07/2025;76;Valle del Cauca;76250;El Dovio;4.511.535.642.587.150;-7.623.859.573.427.440;Parque Principal;Machos;Felinos;11
+30/07/2025;76;Valle del Cauca;76400;La Unión;4.532.601.332.956.810;-761.031.371.553.172;Parque San Pedro;Hembras;Canino;13
+30/07/2025;76;Valle del Cauca;76400;La Unión;4.532.601.332.956.810;-761.031.371.553.172;Parque San Pedro;Machos;Canino;12
+30/07/2025;76;Valle del Cauca;76400;La Unión;4.532.601.332.956.810;-761.031.371.553.172;Parque San Pedro;Hembras;Felinos;9
+30/07/2025;76;Valle del Cauca;76400;La Unión;4.532.601.332.956.810;-761.031.371.553.172;Parque San Pedro;Machos;Felinos;7
+31/07/2025;76;Valle del Cauca;76036;Andalucía;4.168.989.102.976.250;-761.668.151.477.719;Parque Sacude;Hembras;Canino;14
+31/07/2025;76;Valle del Cauca;76036;Andalucía;4.168.989.102.976.250;-761.668.151.477.719;Parque Sacude;Machos;Canino;5
+31/07/2025;76;Valle del Cauca;76036;Andalucía;4.168.989.102.976.250;-761.668.151.477.719;Parque Sacude;Hembras;Felinos;17
+31/07/2025;76;Valle del Cauca;76036;Andalucía;4.168.989.102.976.250;-761.668.151.477.719;Parque Sacude;Machos;Felinos;3
+1/08/2025;76;Valle del Cauca;76036;Andalucía;4.168.989.102.976.250;-761.668.151.477.719;Parque Sacude;Hembras;Canino;14
+1/08/2025;76;Valle del Cauca;76036;Andalucía;4.168.989.102.976.250;-761.668.151.477.719;Parque Sacude;Machos;Canino;7
+1/08/2025;76;Valle del Cauca;76036;Andalucía;4.168.989.102.976.250;-761.668.151.477.719;Parque Sacude;Hembras;Felinos;16
+1/08/2025;76;Valle del Cauca;76036;Andalucía;4.168.989.102.976.250;-761.668.151.477.719;Parque Sacude;Machos;Felinos;10
+4/08/2025;76;Valle del Cauca;76126;Candelaria;3.954.626.129.719.530;-7.648.322.146.220.290;Corregimiento Villagorgona, barrio Bellohorizonte;Hembras;Canino;20
+4/08/2025;76;Valle del Cauca;76126;Candelaria;3.954.626.129.719.530;-7.648.322.146.220.290;Corregimiento Villagorgona, barrio Bellohorizonte;Machos;Canino;11
+4/08/2025;76;Valle del Cauca;76126;Candelaria;3.954.626.129.719.530;-7.648.322.146.220.290;Corregimiento Villagorgona, barrio Bellohorizonte;Hembras;Felinos;11
+4/08/2025;76;Valle del Cauca;76126;Candelaria;3.954.626.129.719.530;-7.648.322.146.220.290;Corregimiento Villagorgona, barrio Bellohorizonte;Machos;Felinos;13
+5/08/2025;76;Valle del Cauca;76111;Buga;3.899.599.152.031.170;-7.630.070.483.427.850;Corregimiento La Magdalena;Hembras;Canino;10
+5/08/2025;76;Valle del Cauca;76111;Buga;3.899.599.152.031.170;-7.630.070.483.427.850;Corregimiento La Magdalena;Machos;Canino;8
+5/08/2025;76;Valle del Cauca;76111;Buga;3.899.599.152.031.170;-7.630.070.483.427.850;Corregimiento La Magdalena;Hembras;Felinos;15
+5/08/2025;76;Valle del Cauca;76111;Buga;3.899.599.152.031.170;-7.630.070.483.427.850;Corregimiento La Magdalena;Machos;Felinos;10
+6/08/2025;76;Valle del Cauca;76111;Buga;3.899.599.152.031.170;-7.630.070.483.427.850;Coliseo de Ferias;Hembras;Canino;17
+6/08/2025;76;Valle del Cauca;76111;Buga;3.899.599.152.031.170;-7.630.070.483.427.850;Coliseo de Ferias;Machos;Canino;9
+6/08/2025;76;Valle del Cauca;76111;Buga;3.899.599.152.031.170;-7.630.070.483.427.850;Coliseo de Ferias;Hembras;Felinos;16
+6/08/2025;76;Valle del Cauca;76111;Buga;3.899.599.152.031.170;-7.630.070.483.427.850;Coliseo de Ferias;Machos;Felinos;11
+11/08/2025;76;Valle del Cauca;76020;Alcalá;4.675.083.171.850.430;-7.578.197.692.077.820;Bomberos, Secretatía Tránsito;Hembras;Canino;12
+11/08/2025;76;Valle del Cauca;76020;Alcalá;4.675.083.171.850.430;-7.578.197.692.077.820;Bomberos, Secretatía Tránsito;Machos;Canino;8
+11/08/2025;76;Valle del Cauca;76020;Alcalá;4.675.083.171.850.430;-7.578.197.692.077.820;Bomberos, Secretatía Tránsito;Hembras;Felinos;13
+11/08/2025;76;Valle del Cauca;76020;Alcalá;4.675.083.171.850.430;-7.578.197.692.077.820;Bomberos, Secretatía Tránsito;Machos;Felinos;5
+12/08/2025;76;Valle del Cauca;76845;Ulloa;4.738.339.028.897.800;-757.315.513.751.376;Polideportivo Parque Principal;Hembras;Canino;14
+12/08/2025;76;Valle del Cauca;76845;Ulloa;4.738.339.028.897.800;-757.315.513.751.376;Polideportivo Parque Principal;Machos;Canino;4
+12/08/2025;76;Valle del Cauca;76845;Ulloa;4.738.339.028.897.800;-757.315.513.751.376;Polideportivo Parque Principal;Hembras;Felinos;15
+12/08/2025;76;Valle del Cauca;76845;Ulloa;4.738.339.028.897.800;-757.315.513.751.376;Polideportivo Parque Principal;Machos;Felinos;12
+13/08/2025;76;Valle del Cauca;76243;El Águila;4.908.800.537.350.220;-7.604.191.657.660.150;Parque Principal;Hembras;Canino;16
+13/08/2025;76;Valle del Cauca;76243;El Águila;4.908.800.537.350.220;-7.604.191.657.660.150;Parque Principal;Machos;Canino;9
+13/08/2025;76;Valle del Cauca;76243;El Águila;4.908.800.537.350.220;-7.604.191.657.660.150;Parque Principal;Hembras;Felinos;11
+13/08/2025;76;Valle del Cauca;76243;El Águila;4.908.800.537.350.220;-7.604.191.657.660.150;Parque Principal;Machos;Felinos;10
