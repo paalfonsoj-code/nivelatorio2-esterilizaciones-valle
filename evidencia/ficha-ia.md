@@ -1,40 +1,85 @@
 # Ficha de la IA utilizada
 
-## Modelo
+## Información general
 
-Gemma
+Modelo utilizado: Gemma
 
-## Etiqueta
+Etiqueta exacta: gemma:latest
 
-gemma:latest
+Publicado por: Google DeepMind
 
-## Publicado por
+Licencia: Apache-2.0
 
-Google DeepMind
-
-## Licencia
-
-Apache-2.0
-
-## Fuente
-
+Fuente:
 https://ollama.com/library/gemma
+
+---
 
 ## Herramienta utilizada
 
-Ollama
+Motor de ejecución: Ollama
 
-## Dónde corrió
+Versión de uso: Local
 
-Computador personal
+Modo de utilización:
+
+- Generación de código HTML
+- Generación de código CSS
+- Generación de código JavaScript
+- Apoyo en documentación
+- Propuesta de visualizaciones de datos
+- Organización del proyecto
+
+---
+
+## Entorno de ejecución
+
+Equipo: Computador personal
+
+Sistema operativo: Windows Pro 11
+
+Procesador: 12th Gen Intel(R) Core(TM) i5-12450H (2.00 GHz)
+
+Memoria RAM: 8 GB
+
+Ubicación de ejecución: Local mediante Ollama
+
+---
 
 ## Costo
 
-0 USD
+Costo de uso: 0 USD
 
-## Uso realizado
+El modelo fue ejecutado localmente mediante Ollama sin utilizar créditos de API ni servicios de pago.
 
-- Generación de estructura HTML
-- Apoyo en documentación
-- Diseño inicial de la página web
-- Sugerencias de visualización de datos
+---
+
+## Actividades desarrolladas con la IA
+
+La IA fue utilizada para:
+
+- Diseñar la estructura inicial de la página web.
+- Generar el código HTML.
+- Generar el código CSS.
+- Generar el código JavaScript.
+- Proponer visualizaciones para el análisis de datos.
+- Apoyar la construcción de la documentación.
+- Orientar la configuración inicial de Git.
+
+---
+
+## Proyecto desarrollado
+
+Título:
+
+Análisis de Esterilizaciones de Felinos y Caninos en el Valle del Cauca
+
+Pregunta de análisis:
+
+¿Cómo se distribuyen las esterilizaciones de felinos y caninos entre los diferentes municipios del Valle del Cauca y cuál es la proporción histórica entre especies e intervención por género?
+
+---
+
+## Verificación realizada por el estudiante
+
+Todas las respuestas generadas por la IA fueron revisadas manualmente y contrastadas con el conjunto de datos descargado desde el Portal de Datos Abiertos de Colombia.
