@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Esterilizaciones Valle del Cauca</title>
+
+<link rel="stylesheet" href="styles.css">
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+</head>
+<body>
+
+<header>
+<h1>Esterilizaciones de Felinos y Caninos en el Valle del Cauca</h1>
+<p>Análisis exploratorio utilizando datos abiertos.</p>
+</header>
+
+<section>
+<h2>Objetivo</h2>
+
+<p>
+Analizar la distribución de las esterilizaciones de felinos y caninos
+realizadas en los municipios del Valle del Cauca,
+identificando diferencias por especie y género.
+</p>
+</section>
+
+<section>
+<h2>Pregunta de análisis</h2>
+
+<p>
+¿Cómo se distribuyen las esterilizaciones de felinos y caninos entre los diferentes municipios del Valle del Cauca y cuál es la proporción histórica entre especies e intervención por género?
+</p>
+</section>
+
+<section>
+<h2>Fuente de Datos</h2>
+
+<p>
+Portal de Datos Abiertos de Colombia.
+</p>
+</section>
+
+<section>
+<h2>Esterilizaciones por Municipio</h2>
+<canvas id="municipiosChart"></canvas>
+</section>
+
+<section>
+<h2>Esterilizaciones por Especie</h2>
+<canvas id="especieChart"></canvas>
+</section>
+
+<section>
+<h2>Esterilizaciones por Género</h2>
+<canvas id="sexoChart"></canvas>
+</section>
+
+<section>
+<h2>Hallazgos</h2>
+<ul>
+<li>Identificar los municipios con mayor número de esterilizaciones.</li>
+<li>Determinar la especie más intervenida.</li>
+<li>Analizar la distribución entre machos y hembras.</li>
+</ul>
+</section>
+
+<section>
+<h2>Cómo trabajé con la IA</h2>
+
+<p>
+Se utilizó Gemma ejecutado mediante Ollama para apoyar la construcción del proyecto.
+</p>
+</section>
+
+<script src="script.js"></script>
+
+</body>
+</html>
