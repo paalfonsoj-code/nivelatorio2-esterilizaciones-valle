@@ -50,3 +50,7 @@ Se identificó la necesidad de estandarizar las categorías antes de realizar an
 ## Lección aprendida
 
 Las respuestas generadas por la IA deben ser verificadas antes de utilizarse en un proyecto académico o profesional.
+---
+
+Actualización final realizada el 11 de noviembre de 2026.
+---
