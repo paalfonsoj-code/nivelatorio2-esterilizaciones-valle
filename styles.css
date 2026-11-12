@@ -2,6 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 20px;
     background-color: #f4f4f4;
+    line-height: 1.6;
 }
 
 header {
@@ -9,16 +10,57 @@ header {
     color: white;
     text-align: center;
     padding: 20px;
+    border-radius: 8px;
 }
 
 section {
     background: white;
     margin-top: 20px;
     padding: 20px;
+    border-radius: 8px;
 }
 
 canvas {
     width: 100%;
     max-width: 800px;
     height: 400px;
+}
+
+/* Hallazgos */
+
+#hallazgos {
+    background: #ffffff;
+    margin-top: 30px;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+#hallazgos h2 {
+    text-align: center;
+    color: #006699;
+    margin-bottom: 25px;
+}
+
+.hallazgo {
+    background-color: #f8f9fa;
+    border-left: 5px solid #006699;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+.hallazgo h3 {
+    color: #004466;
+    margin-bottom: 10px;
+}
+
+.hallazgo p {
+    text-align: justify;
+}
+
+/* Sección IA */
+
+section h2 {
+    color: #006699;
 }

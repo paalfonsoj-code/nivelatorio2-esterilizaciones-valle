@@ -2,72 +2,145 @@
 <html lang="es">
 
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Esterilizaciones Valle del Cauca</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Esterilizaciones Valle del Cauca</title>
 
-<link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="styles.css">
 
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 
 <body>
 
-<header>
-<h1>Esterilizaciones de Felinos y Caninos en el Valle del Cauca</h1>
-<p>Proyecto Académico - Especialización en Ciencia de Datos</p>
-</header>
+    <header>
+        <h1>Esterilizaciones de Felinos y Caninos en el Valle del Cauca</h1>
+        <p>Proyecto Académico - Especialización en Ciencia de Datos</p>
+    </header>
 
-<section>
-<h2>Pregunta de análisis</h2>
+    <section>
+        <h2>Pregunta de análisis</h2>
 
-<p>
-¿Cómo se distribuyen las esterilizaciones de felinos y caninos entre
-los diferentes municipios del Valle del Cauca y cuál es la proporción
-histórica entre especies e intervención por género?
-</p>
-</section>
+        <p>
+            ¿Cómo se distribuyen las esterilizaciones de felinos y caninos entre
+            los diferentes municipios del Valle del Cauca y cuál es la proporción
+            histórica entre especies e intervención por género?
+        </p>
+    </section>
 
-<section>
-<h2>Figura 1. Esterilizaciones por municipio</h2>
-<canvas id="municipiosChart"></canvas>
-</section>
+    <section>
+        <h2>Figura 1. Esterilizaciones por municipio</h2>
+        <canvas id="municipiosChart"></canvas>
+    </section>
 
-<section>
-<h2>Figura 2. Distribución por especie</h2>
-<canvas id="especieChart"></canvas>
-</section>
+    <section>
+        <h2>Figura 2. Distribución por especie</h2>
+        <canvas id="especieChart"></canvas>
+    </section>
 
-<section>
-<h2>Figura 3. Distribución por sexo</h2>
-<canvas id="sexoChart"></canvas>
-</section>
+    <section>
+        <h2>Figura 3. Distribución por sexo</h2>
+        <canvas id="sexoChart"></canvas>
+    </section>
 
-<script src="script.js"></script>
-<section>
+    <!-- HALLAZGOS DEL ANÁLISIS -->
 
-<h2>Hallazgos principales</h2>
+    <section id="hallazgos">
 
-<ul>
+        <h2>Hallazgos del análisis</h2>
 
-<li>
-Yumbo registra la mayor cantidad de registros de esterilización,
-con 48 registros.
-</li>
+        <div class="hallazgo">
+            <h3>Hallazgo 1. Concentración de esterilizaciones por municipio</h3>
 
-<li>
-Se identificó una inconsistencia en la variable Tipo de Animal,
-al coexistir las categorías "Canino" y "Caninos".
-</li>
+            <p>
+                El análisis de los registros evidencia que las esterilizaciones no se
+                distribuyen de manera uniforme entre los municipios del Valle del Cauca.
+                Yumbo registra la mayor cantidad de intervenciones reportadas, con 48
+                registros, destacándose como el municipio con mayor participación dentro
+                del conjunto de datos analizado.
+            </p>
 
-<li>
-La distribución por sexo es equilibrada:
-192 hembras y 192 machos.
-</li>
+            <p>
+                <strong>Verificación:</strong> Se realizó un conteo de registros
+                agrupados por municipio y se representaron los resultados mediante una
+                gráfica de barras.
+            </p>
+        </div>
 
-</ul>
+        <div class="hallazgo">
+            <h3>Hallazgo 2. Distribución por especie</h3>
 
-</section>
+            <p>
+                La comparación entre felinos y caninos permite identificar diferencias
+                en la cantidad de procedimientos realizados para cada especie.
+                Durante el análisis también se detectó una inconsistencia en la variable
+                "Tipo de Animal", debido a la existencia simultánea de las categorías
+                "Canino" y "Caninos", situación que requiere procesos de depuración
+                para evitar resultados duplicados.
+            </p>
+
+            <p>
+                <strong>Verificación:</strong> Se revisaron y agruparon las categorías
+                registradas en la variable "Tipo de Animal" y se visualizaron mediante
+                un gráfico circular.
+            </p>
+        </div>
+
+        <div class="hallazgo">
+            <h3>Hallazgo 3. Distribución según sexo</h3>
+
+            <p>
+                Los datos muestran una distribución equilibrada entre hembras y machos,
+                registrándose 192 procedimientos para cada grupo. Este comportamiento
+                sugiere una cobertura homogénea de las intervenciones dentro del conjunto
+                de datos analizado.
+            </p>
+
+            <p>
+                <strong>Verificación:</strong> Se agruparon los registros por la
+                variable "Sexo" y se calcularon sus frecuencias para su representación
+                gráfica.
+            </p>
+        </div>
+
+        <div class="hallazgo">
+            <h3>Hallazgo 4. Importancia de la calidad de los datos</h3>
+
+            <p>
+                Durante la exploración del conjunto de datos se identificaron diferencias
+                en la forma de registrar algunas categorías. Esto demuestra la
+                importancia de realizar procesos de validación y limpieza de datos antes
+                de efectuar análisis definitivos y generar conclusiones confiables.
+            </p>
+
+            <p>
+                <strong>Verificación:</strong> Revisión manual de registros y comparación
+                de categorías similares con diferentes formas de escritura.
+            </p>
+        </div>
+
+    </section>
+
+    <section>
+        <h2>Uso de Inteligencia Artificial</h2>
+
+        <p>
+            Para el desarrollo de este proyecto se utilizó el modelo abierto Gemma,
+            ejecutado localmente mediante Ollama. La inteligencia artificial apoyó la
+            organización del proyecto, la documentación, la construcción inicial del
+            código HTML, CSS y JavaScript, así como la redacción preliminar de los
+            hallazgos.
+        </p>
+
+        <p>
+            Todos los contenidos generados mediante IA fueron revisados, corregidos y
+            validados manualmente antes de ser incorporados a la versión final del
+            proyecto.
+        </p>
+    </section>
+
+    <script src="script.js"></script>
+
 </body>
 
 </html>

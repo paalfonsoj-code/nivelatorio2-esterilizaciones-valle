@@ -110,3 +110,10 @@ para garantizar la consistencia y validez del análisis.
 La inteligencia artificial fue utilizada como herramienta de apoyo y no como sustituto del análisis realizado por el estudiante.
 
 Las decisiones finales sobre el contenido, validación de resultados e interpretación de la información corresponden al autor del proyecto.
+
+## Fecha de consulta
+Fecha de consulta del modelo: 10 de noviembre de 2026
+
+## Herramienta utilizada
+Versión de Ollama: 0.40.16
+---
