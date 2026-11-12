@@ -1,31 +1,47 @@
-new Chart(document.getElementById("municipiosChart"), {
-    type: "bar",
+const municipiosCtx = document.getElementById('municipiosChart');
+
+new Chart(municipiosCtx, {
+    type: 'bar',
     data: {
-        labels: ["Cali", "Obando", "Palmira", "Tuluá"],
+        labels: ['Yumbo', 'Andalucía', 'Candelaria'],
         datasets: [{
-            label: "Esterilizaciones",
-            data: [120, 95, 80, 60]
+            label: 'Registros',
+            data: [48, 28, 20],
+            backgroundColor: 'blue'
         }]
     }
 });
 
-new Chart(document.getElementById("especieChart"), {
-    type: "pie",
+const especieCtx = document.getElementById('especieChart');
+
+new Chart(especieCtx, {
+    type: 'pie',
     data: {
-        labels: ["Caninos", "Felinos"],
+        labels: ['Felinos', 'Canino', 'Caninos'],
         datasets: [{
-            data: [60, 40]
+            data: [192, 190, 2],
+            backgroundColor: [
+                '#006699',
+                '#28a745',
+                '#ffc107'
+            ]
         }]
     }
 });
 
-new Chart(document.getElementById("sexoChart"), {
-    type: "bar",
+const sexoCtx = document.getElementById('sexoChart');
+
+new Chart(sexoCtx, {
+    type: 'bar',
     data: {
-        labels: ["Hembras", "Machos"],
+        labels: ['Hembras', 'Machos'],
         datasets: [{
-            label: "Total",
-            data: [70, 30]
+            label: 'Registros',
+            data: [192, 192],
+            backgroundColor: [
+                '#e83e8c',
+                '#17a2b8'
+            ]
         }]
     }
 });

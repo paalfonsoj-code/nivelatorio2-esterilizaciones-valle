@@ -32,6 +32,21 @@ Se decidió calcular los resultados directamente desde el conjunto de datos ante
 
 ---
 
+## Error 3
+
+### Situación
+
+La variable Tipo de Animal contenía categorías equivalentes con diferente escritura.
+
+### Verificación
+
+Al agrupar los registros aparecieron simultáneamente las categorías "Canino" y "Caninos".
+
+### Corrección
+
+Se identificó la necesidad de estandarizar las categorías antes de realizar análisis definitivos.
+---
+
 ## Lección aprendida
 
 Las respuestas generadas por la IA deben ser verificadas antes de utilizarse en un proyecto académico o profesional.

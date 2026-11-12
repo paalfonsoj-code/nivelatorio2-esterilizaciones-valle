@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
     margin: 20px;
+    background-color: #f4f4f4;
 }
 
 header {
@@ -9,16 +9,16 @@ header {
     color: white;
     text-align: center;
     padding: 20px;
-    border-radius: 8px;
 }
 
 section {
     background: white;
     margin-top: 20px;
     padding: 20px;
-    border-radius: 8px;
 }
 
-h2 {
-    color: #006699;
+canvas {
+    width: 100%;
+    max-width: 800px;
+    height: 400px;
 }
